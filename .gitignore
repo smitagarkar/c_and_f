@@ -1,0 +1,4 @@
+/app/Http/Controllers/*.log
+/resources/views/*.log
+/routes/*.log
+

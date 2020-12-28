@@ -1,0 +1,6 @@
+[31-Oct-2020 09:58:36 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 4096 bytes) in /home/ashirwad/public_html/c_and_f/vendor/composer/autoload_static.php on line 4095
+[31-Oct-2020 09:59:09 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 4096 bytes) in /home/ashirwad/public_html/c_and_f/vendor/composer/autoload_static.php on line 4095
+[31-Oct-2020 10:08:32 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 4096 bytes) in /home/ashirwad/public_html/c_and_f/vendor/composer/autoload_static.php on line 4095
+[31-Oct-2020 10:08:36 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 4096 bytes) in /home/ashirwad/public_html/c_and_f/vendor/composer/autoload_static.php on line 4095
+[31-Oct-2020 10:09:14 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 4096 bytes) in /home/ashirwad/public_html/c_and_f/vendor/composer/autoload_static.php on line 4095
+[31-Oct-2020 10:30:35 UTC] PHP Fatal error:  Allowed memory size of 2097152 bytes exhausted (tried to allocate 4096 bytes) in /home/ashirwad/public_html/c_and_f/vendor/composer/autoload_static.php on line 4095
