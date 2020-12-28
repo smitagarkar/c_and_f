@@ -23,7 +23,7 @@ class LogisticController extends Controller{
 
 	public function demoNew(Request $request){
 
-		echo 'smit agarkar';
+		echo 'smit dilip agarkar';
 
 	}
 
