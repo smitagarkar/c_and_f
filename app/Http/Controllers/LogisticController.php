@@ -21,6 +21,12 @@ class LogisticController extends Controller{
 
 	}
 
+	public function demoNew(Request $request){
+
+		echo 'smit agarkar';
+
+	}
+
 	public function index(Request $request){
 
 	$title ='Add Fleet Transaction';
